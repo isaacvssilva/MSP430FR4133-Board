@@ -1,0 +1,6 @@
+"./Core/Src/main.obj"
+"./Drivers/Src/adc_config.obj"
+"./Drivers/Src/clock_config.obj"
+"./Drivers/Src/uart_config.obj"
+"../lnk_msp430fr4133.cmd"
+-llibc.a
